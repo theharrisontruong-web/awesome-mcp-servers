@@ -294,6 +294,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
+- **[A11y Audit](https://a11y-al6bxcngia-ue.a.run.app)** - Remote MCP server (`audit_a11y` at https://a11y-al6bxcngia-ue.a.run.app/mcp) that scans any URL for the WCAG failures behind ADA lawsuits across 20 weighted checks. Pay-per-call $1.50 via x402 (USDC on Base, no API keys); free `audit_a11y_lite` tier included.
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
@@ -362,6 +363,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server)** - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - **[Facebook Ads Library](https://github.com/trypeggy/facebook-ads-library-mcp)** - Get any answer from the Facebook Ads Library, conduct deep research including messaging, creative testing and comparisons in seconds.
 - **[Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics)** - Access and analyze Fathom Analytics data and reports
+- **[Feed Audit](https://feed-al6bxcngia-ue.a.run.app)** - Remote MCP server (`audit_feed` at https://feed-al6bxcngia-ue.a.run.app/mcp) that audits a product feed (XML/CSV/JSON) for Google Shopping disapproval errors across 20 weighted checks. Pay-per-call $1.00 via x402 (USDC on Base, no API keys); free `audit_feed_lite` tier included.
 - **[Files](https://github.com/flesler/mcp-files)** - Enables agents to quickly find and edit code in a codebase with surgical precision. Find symbols, edit them everywhere.
 - **[FHIR MCP](https://github.com/the-momentum/fhir-mcp-server)** - MCP Server that connects AI agents to FHIR servers
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
@@ -369,6 +371,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
+- **[GEO Audit](https://geo-al6bxcngia-ue.a.run.app)** - Remote MCP server (`audit_geo` at https://geo-al6bxcngia-ue.a.run.app/mcp) that scores any URL's visibility to AI search engines across 20 weighted checks and returns concrete fixes. Pay-per-call $1.50 via x402 (USDC on Base, no API keys); free `audit_geo_lite` tier included.
 - **[godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server)** - MCP server to provide golang packages and their information from pkg.go.dev
 - **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - **[Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server)** - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
@@ -420,6 +423,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
 - **[LunchMoney](https://github.com/akutishevsky/lunchmoney-mcp)** - MCP server for LunchMoney personal finance and budgeting tool.
 - **[Local History MCP](https://github.com/xxczaki/local-history-mcp)** – MCP server for accessing VS Code/Cursor's Local History.
+- **[Storefront Grader](https://grader-al6bxcngia-ue.a.run.app)** - Remote MCP server (`grade_storefront` at https://grader-al6bxcngia-ue.a.run.app/mcp) that grades any storefront URL A–F across 20 weighted conversion-readiness checks. Pay-per-call $1.00 via x402 (USDC on Base, no API keys); free lite tier included.
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
